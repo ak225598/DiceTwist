@@ -26,7 +26,7 @@ function roll(){
         document.querySelector("#die-1").setAttribute("src", images[dieOneValue]);
         document.querySelector("#die-2").setAttribute("src", images[dieTwoValue]);
         //showing the total by adding both the values
-        document.querySelector("#total").innerHTML = "Your roll is " + ( (dieOneValue +1) + (dieTwoValue + 1) );
+        document.querySelector("#total").innerHTML = "Your Total is " + ( (dieOneValue +1) + (dieTwoValue + 1) );
     },
     1000
     );
