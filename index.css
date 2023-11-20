@@ -54,15 +54,15 @@ p{
     text-align: center;
     background-color: #FFB100;
     border-radius: 10px;
-    margin-bottom: 20px;
-    padding-top: 7px;
+    margin-bottom: 25px;
+    padding-top: 10px;
 }
 
 #btn1{
     width: 150px;
-    height: 70px;
+    height: 40px;
     border-radius: 18px;
-    border-color: antiquewhite;
+    border-color: white;
     background-color: #FFB100;
 }
 
